@@ -1,0 +1,2 @@
+# pag.css
+testando gradiente.
