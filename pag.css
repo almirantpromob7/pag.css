@@ -1,0 +1,16 @@
+*{margin: 0;}
+main {
+  color: white;
+  padding: 8px;
+  
+  background-color: rgb(85, 60, 130);
+  background-image: url(https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-origin: content-box;
+  background-clip: content-box;
+  background-attachment: fixed;
+  
+  background: linear-gradient(black, purple, indigo), url(https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj), no-repeat right top / 50px border-box content-box fixed;
+}
